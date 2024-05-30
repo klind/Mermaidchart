@@ -2,83 +2,153 @@
 block-beta
     columns 8
       CorporateFunctions["Corporate Functions"]:8
-      space:8
-      CCT:2
-      P&T:2
+      
+      space:2  
+      Staff{{"Staff Engineer<br>Thomas Ditlevsen"}}:1
+      Designer{{"Designer<br>Fylla Fjordside"}}:1
+      AC{{"Agile Coache<br>Lonnie Thor"}}:1
+      PL{{"Product Leader<br>Andreas Jessen"}}:1
+      
+      space:2
+      space:8  
+           
+      
+      CCT["Collaboration and Communication Tools<br>PM: Kim Hoffmann"]:2
+      P&T["People & Talent"]:2
       Finance:2
-      EUC:2
-
-        block:group1:2
-            columns 2
-            Developer1["Dev"]
-            Config1["Config"]
+      EUC["End User Computing<br>PM: Kim Hoffmann"]:2
+      
+            
+        %% -
+        block:type1:2
+            u1{{"Udvikler"}}
+            c1{{"Config"}}
         end
 
-        block:group2:2
-            columns 2
-            Developer2["Tobias"]
-            Config2["Maria"]
+        block:type2:2
+            u2{{"Udvikler"}}
+            c2{{"Config"}}
         end
 
-        block:group3:2
-            columns 2
-            Developer3["Dev"]
-            Config3["Config"]
+        block:type3:2
+            u3{{"Udvikler"}}
+            c3{{"Config"}}
         end
 
-        block:group4:2
+        block:type4:2
+            u4{{"Udvikler"}}
+            c4{{"Config"}}
+        end
+        %% -
+        block:cct1:2
             columns 2
-            Developer4["Dev"]
-            Config4["Config"]
+            Developer1["Daniel, 13 aug"]
+            Config1["Martin Bo Hermansen"]
         end
 
-        block:group5:2
+        block:PT1:2
             columns 2
-            Developer5["Dev"]
-            Config5["Config"]
+            Developer2["Tobias F Petersen
+            HR portal, Honorar app"]
+            Config2["Maria Jensen"]
         end
 
-        block:group6:2
+        block:finance1:2
             columns 2
-            Developer6["Dev"]
-            Config6["Config"]
+            Developer3["Lars-Bo Christensen
+            D365, Honorar app"]
+            Config3["Mette Bøgevald Birkholm
+            D365"]
         end
 
-        block:group7:2
+        block:euc1:2
             columns 2
-            Developer7["Dev"]
-            Config7["Config"]
+            Developer4["Michael Toft Andersen
+            Service Now"]
+            Config4["Line Jønck
+            Atlassian, Zendesk,
+            Service Now, Slack"]
+        end
+        %% -
+        block:cct2:2
+            columns 2
+            Developer5["Thomas, 1 aug"]
+            Config5["-"]
         end
 
-        block:group8:2
+        block:pt2:2
             columns 2
-            Developer8["Dev"]
-            Config8["Config"]
+            Developer6["Open 2025"]
+            Config6["-"]
         end
 
-        block:group9:2
+        block:finance2:2
             columns 2
-            Developer9["Dev"]
-            Config9["Config"]
+            Developer7["Andreas V Frederiksen
+            D365"]
+            Config7["-"]
         end
 
-        block:group10:2
+        block:euc2:2
             columns 2
-            Developer10["Dev"]
-            Config10["Config"]
+            Developer8["Open"]
+            Config8["Jan Christiansen
+            Windows, Office 365"]
+        end
+        %% -
+        block:cct3:2
+            columns 2
+            Developer9["-"]
+            Config9["Open"]
         end
 
-        block:group11:2
+        block:pt3:2
             columns 2
-            Developer11["Dev"]
-            Config11["Config"]
+            Developer10["-"]
+            Config10["-"]
         end
 
-        block:group12:2
+        block:finance3:2
             columns 2
-            Developer12["Dev"]
-            Config12["Config"]
+            Developer11["-"]
+            Config11["-"]
         end
+
+        block:euc3:2
+            columns 2
+            Developer12["-"]
+            Config12["Mads Oddersborg
+            Mac, JAMF integrationer
+            "]
+        end
+        %% -
+        block:cct4:2
+            columns 2
+            Developer13["-"]
+            Config13["-"]
+        end
+
+        block:pt4:2
+            columns 2
+            Developer14["-"]
+            Config14["-"]
+        end
+
+        block:finance4:2
+            columns 2
+            Developer15["-"]
+            Config15["-"]
+        end
+
+        block:euc4:2
+            columns 2
+            Developer16["-"]
+            Config16["Christan Westphal
+            Licenser, Mobil, Mødelokaler,
+            infoskærme, Telefoni"]
+        end
+        %% -
+        
 ```
 
         
