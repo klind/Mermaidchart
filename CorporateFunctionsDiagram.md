@@ -42,7 +42,7 @@ block-beta
         %% -
         block:cct1:2
             columns 2
-            Developer1["Daniel, 13 aug"]
+            Developer1["Daniel Jakobsen"]
             Config1["Martin Bo Hermansen"]
         end
 
@@ -72,26 +72,27 @@ block-beta
         %% -
         block:cct2:2
             columns 2
-            Developer5["Thomas, 1 aug"]
-            Config5["-"]
+            Developer5["Thomas Nørgaard"]
+            Config5["Povl Agerholm"]
         end
 
         block:pt2:2
             columns 2
-            Developer6["Open 2025"]
-            Config6["-"]
+            Developer6["Open"]
+            Config6["Open"]
         end
 
         block:finance2:2
             columns 2
             Developer7["Andreas V Frederiksen
             D365"]
-            Config7["-"]
+            Config7["Open"]
         end
 
         block:euc2:2
             columns 2
-            Developer8["Open"]
+            Developer8["Lasse Nielsen 
+            (start 6 jan)"]
             Config8["Jan Christiansen
             Windows, Office 365"]
         end
@@ -99,7 +100,7 @@ block-beta
         block:cct3:2
             columns 2
             Developer9["-"]
-            Config9["Open"]
+            Config9["-"]
         end
 
         block:pt3:2
@@ -148,7 +149,6 @@ block-beta
             infoskærme, Telefoni"]
         end
         %% -
-        
 ```
 
         
